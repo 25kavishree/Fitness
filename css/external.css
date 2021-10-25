@@ -1,0 +1,42 @@
+body
+{
+    background-color: darkgray;
+}
+
+.head1
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+.nav1{
+    border-radius: 5px;
+    background-color:gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+#btn1
+{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 20px;
+    border-radius: 2px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color:silver;
+    border-radius: 5px;
+    
+    }
+#btn1:hover{
+    background-color: lightslategray;
+}
+img{
+    width: 100%;
+}
+.side{
+    text-align: center;
+    color:olivedrab;
+}
